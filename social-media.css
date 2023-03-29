@@ -1,0 +1,120 @@
+    .header {
+    background-color:white;
+    text-align: center;
+    padding: 20px;
+  }
+  .topnav {
+    background-color: white;
+    width:100%;
+    padding:50px 0;
+    margin-right:none px;
+  }
+  .topnav nav ul{
+    color:black;
+      list-style: none;
+      padding:0;
+      margin:0;
+  }
+  .topnav nav li
+  {
+      display: inline-block;
+      background-color:white;
+      opacity:0.5;
+      margin:0 10px;
+      list-style: none;
+      height:none;
+  }
+  .first
+  {
+      background-color:white;
+      color:red;
+      width:20%;
+      margin-top: none;
+      display:inline-block;
+      opacity:0.7;
+  }
+  .first nav ol
+  {
+      list-style: none;
+  }
+  
+  .second img{
+      float:left;
+      margin-left:20px;
+      width:270px;
+      border:30px;
+      border-radius:50%
+      
+  }
+  .back{
+      background-color:white;
+    
+      height:460px;
+      width:58%;
+      display:inline-block;
+      text-align:left 20px;
+    
+  }
+
+body{
+    background-image:url("tree.jpg");
+   
+    
+}
+.e{
+    float:right;
+    width:20%;
+    margin:0 5px;
+}
+.about{
+   
+    width:58%;
+    text-align: center;
+    color:pink;
+    background-color:#008080;
+    opacity: 0.7;
+    margin-left:269px;
+    margin-top: none;
+}
+    .a{
+        background-color:grey;
+        color:brown;
+        width:58%;
+        height: 30%;
+        border-left: 50PX;
+        margin-left:269Px;
+        padding-top: o.5px;
+        
+    }
+    .a{
+        column-count: 2;
+    }
+    .b {
+        float:right;
+        background-color:green;
+        opacity: 0.5;
+        margin-top:10px;
+        margin:0 auto;
+    }
+
+    .text {
+    background-color:blue;
+    opacity: 0.5;
+    color:white;
+    border-radius: 10%;
+}
+.text{
+    column-count: 2;
+}
+.social-media{
+    color:green;
+    text-decoration: none;
+    margin: 0 30px;
+    font-size: 50px;
+    background-color:black;
+    opacity: 0.5;
+    border-radius:10%;
+}
+.social-media:hover{
+    color:#333333; 
+}

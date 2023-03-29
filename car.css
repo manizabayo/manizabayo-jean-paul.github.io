@@ -1,0 +1,57 @@
+   .car{
+background-color:#008080;
+color:beige;
+padding: 15px;
+margin:20px;
+border:dashed;
+border-top-style: solid;
+text-align:center;
+border-radius:20%;
+            }
+            #vehicle{
+                background-color: grey;
+                color:red;
+                border-radius: 5%;
+                margin:20px;
+            }
+            .chn{
+                color:black;
+                text-transform:lowercase;
+                text-decoration-line:underline;
+            }
+            ul,li{
+                background-color:black;
+                padding:20px;
+                margin:5px;
+                border-radius:30%;
+            }
+            #jpg{
+                border-radius: 100%;
+                 position:relative;
+                float:right; 
+                       }
+                       .p{
+                        background-color: black;
+                        color:white;
+                        font-size: 60px;text-decoration-line: underline;
+                        color:red;
+                        
+                       }
+                       body{
+                        background-image:url("gakiree.jpg");
+                        background-repeat: no-repeat;
+                        background-attachment:fixed;
+                       }
+                       p{
+                        border-bottom: solid;
+                        text-transform: uppercase;
+                        background-color:blue;
+                        border-radius: 20%;
+                        color:yellow;
+
+                       }
+                       .header {
+                        background-color: #F1F1F1;
+                        text-align: center;
+                        padding: 20px;
+                       }
