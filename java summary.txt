@@ -1,0 +1,10 @@
+java is the compiled language that is translated into binary numbers/machine language. 
+while the javascript is the interpreted language  no need of being translated.
+
+example of the interpreted language: java script,python,etc...
+example of the compiled language is:c,c++,etc...
+
+
+ this is how to put tyhe java script externally, ,, we open the new java document and do all the javascript codes  and save it with the extension 
+of the js. then we link that java with the html ,by <script src=" (script.js)the pathg of the java scrpt codes" defer></script> . this is when it is the head section. but when 
+ but when it is  under the html code at the end, we don't need to use the defer in the opening tag of the javascript.
